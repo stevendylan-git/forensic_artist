@@ -61,6 +61,7 @@ lerna-debug.log*
 *.log
 backend/uploads/
 backend/exports/
+data/storage/
 pgdata/
 
 # OS / Editors
